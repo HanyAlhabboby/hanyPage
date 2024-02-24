@@ -1,0 +1,84 @@
+{
+    "eduction": [
+        {
+            "id": 1,
+            "school": "Edugrade yrkeshögskola",
+            "subject": "Systemytvecklare.net med AI-kompetens",
+            "year": "September 2023 - tillsvidare"
+        },
+        {
+            "id": 2,
+            "school": "Södertörns högskola",
+            "subject": "Turismsprogrammet",
+            "year": "Augusti 2013 – Juni 2016 "
+        },
+        {
+            "id": 3,
+            "school": "Södertörns högskola",
+            "subject": "Medietekniksprogrammet",
+            "year": "Augusti 2014 – Maj 2017 "
+        },
+        {
+            "id": 4,
+            "school": "Arlanda Gymnasiet",
+            "subject": "Fordonsprogrammet",
+            "year": "Augusti 2007 – Juni 2010"
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "company": "Postnord strålfors rosersberg",
+            "titel": "Lager medarbetare",
+            "date": "Januari 2022 - tillsvidare"
+        },
+        {
+            "id": 2,
+            "company": "Speed logistics rosersberg",
+            "titel": "Lager medarbetare",
+            "date": "November 2021 – december 2021"
+        },
+        {
+            "id": 3,
+            "company": "DHL Supplychain rosersberg",
+            "titel": "Trainer och customersupport",
+            "date": "December 2020 – November 2021"
+        },
+        {
+            "id": 4,
+            "company": "Gate Gourmet Arlanda",
+            "titel": "Lager medarbetare",
+            "date": "Maj 2017– juni 2020"
+        },
+        {
+            "id": 5,
+            "company": "Lavazza Arlanda",
+            "titel": "Barista",
+            "date": "Oktober 2012 – Augusti 2015"
+        },
+        {
+            "id": 6,
+            "company": "ROBERT’S COFFEE, ARLANDA",
+            "titel": "Barista",
+            "date": "Juli 2010 – September 2012"
+        },
+        {
+            "id": 7,
+            "company": "BAVARIA STOCKHOLM, SOLNA (praktik)",
+            "titel": "Bilmeknaiker",
+            "date": "Mars 2010 – April 2010"
+        },
+        {
+            "id": 8,
+            "company": "LSG arlanda, arlanda",
+            "titel": "Lager medarbetare",
+            "date": "April 2009 – Maj 2010"
+        },
+        {
+            "id": 9,
+            "company": "MEKONOMEN, ROTEBRO (Praktik)",
+            "titel": "Bilmeknaiker",
+            "date": "Februari 2009 – Mars 2009"
+        }
+    ]
+}
