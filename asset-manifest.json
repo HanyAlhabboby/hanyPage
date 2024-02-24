@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hanyPage/static/css/main.a30bddb6.css",
+    "main.js": "/hanyPage/static/js/main.be2f1b0f.js",
+    "static/js/592.35c08289.chunk.js": "/hanyPage/static/js/592.35c08289.chunk.js",
+    "static/media/me.png": "/hanyPage/static/media/me.87c87fe45fcbe337a795.png",
+    "static/media/experience.jpg": "/hanyPage/static/media/experience.121fb11669ec480cb9f4.jpg",
+    "static/media/videogames.jpg": "/hanyPage/static/media/videogames.d9584d9e070719b09bf2.jpg",
+    "static/media/Travel.jpg": "/hanyPage/static/media/Travel.12d7c59f71c566014531.jpg",
+    "index.html": "/hanyPage/index.html",
+    "main.a30bddb6.css.map": "/hanyPage/static/css/main.a30bddb6.css.map",
+    "main.be2f1b0f.js.map": "/hanyPage/static/js/main.be2f1b0f.js.map",
+    "592.35c08289.chunk.js.map": "/hanyPage/static/js/592.35c08289.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a30bddb6.css",
+    "static/js/main.be2f1b0f.js"
+  ]
+}
